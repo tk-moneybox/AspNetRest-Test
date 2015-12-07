@@ -5,7 +5,8 @@ Please check http://localhost:49221/metadata page for detailed information.
 You need to call the /transaction/dropandcreatedb to initialize the db under IIS hosted sample.
 The unit test initialize the db for the test cases.
 
-I've used more time that the brief said, because MVC Web API is not the best solution, everybody knows it, and I like to create the best solution. So I went in new way.
+I've used more time that the brief said, because MVC Web API is not the best solution, everybody knows it, and I like to create the best solution. 
+So I went in new way, and I've made a sort of proof of concept solution.
 I have created a solution with the ServiceStack and the Nhibernate Session/Call strategy.
 I believe this is the most powerful combination in now days.
 Easy to develop with it, seriously and 'obscenely' fast combination.
@@ -17,7 +18,3 @@ Hope you like my solution.
 Your sincerely,
 
 Tamas Kluber
-
-
-
-
